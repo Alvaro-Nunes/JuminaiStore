@@ -1,2 +1,2 @@
 # JuminaiStore
-acess: https://github.com/Alvaro-Nunes/JuminaiStore.git
+acess: https://alvaro-nunes.github.io/JuminaiStore/
