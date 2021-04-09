@@ -1,2 +1,2 @@
 # JuminaiStore
-A simple website for my company
+acess: https://github.com/Alvaro-Nunes/JuminaiStore.git
